@@ -83,20 +83,11 @@ const CONFIG = {
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
-    'Git',
-    'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+'Programming Languages:' 'C/C++', 'MATLAB', 'Python', 'SystemC', 'Verilog',
+'Technical Software:' 'Altium Designer', 'Cursor', 'Git', 'GitHub', 'Jupyter Notebook', 'Keil uVision', 'Linux', 'LTspice', 'MATLAB', 'MySQL', 'Onshape', 'OpenCV', 'PixyMon', 'Replit', 'STM32Cube', 'Thonny', 'VS Code', 'VirtualBox', 'Vivado',
+'Electrical Skills:' 'Calibration', 'Circuit Design', 'Testing', 'Troubleshooting',
+'Interests:' 'Basketball', 'Calisthenics', 'Comedy', 'Fashion', 'Gaming', 'Golfing', 'Hip-Hop', 'Instrumentation', 'Movies', 'PC’s', 'Sneakers', 'Traveling', 'Weightlifting',
+'Other:' 'Hardware Assembly/Disassembly', 'Leadership', 'Management', 'Problem-Solving', 'Team Building'
   ],
   experiences: [
     {
@@ -124,16 +115,16 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'California State University, Long Beach',
+      degree: 'B.S. Computer Engineering',
+      from: '2021',
+      to: '2025',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'St. Anthony High School',
+      degree: 'Diploma',
+      from: '2021',
+      to: '2017',
     },
   ],
   publications: [
