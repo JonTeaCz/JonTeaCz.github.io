@@ -57,7 +57,7 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'jonathan-cerniaz',
+    linkedin: 'Jonathan Cerniaz',
     x: '',
     mastodon: '',
     researchGate: '',
@@ -91,18 +91,18 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'The Letics',
+      position: 'Model',
+      from: 'May 2022',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://www.theletics.com/',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Walmart',
+      position: 'Online Order Fulfillment & Front-End Associate',
+      from: 'June 2022',
+      to: 'January 2023',
+      companyLink: 'https://careers.walmart.com/',
     },
   ],
   certifications: [
