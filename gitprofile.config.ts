@@ -33,7 +33,7 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'Coming Soon...',
           description:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
@@ -41,7 +41,7 @@ const CONFIG = {
           link: 'https://example.com',
         },
         {
-          title: 'Project Name',
+          title: 'Coming Soon...',
           description:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
@@ -53,7 +53,7 @@ const CONFIG = {
   },
   seo: {
     title: 'Portfolio of Jonathan Cerniaz',
-    description: '',
+    description: 'Jonathan Cerniaz is a recently graduated student with a Bachelor of Computer Engineering from California State University of Long Beach. He is interested in the intricacies of technology. He thrives on hands-on projects and practical problem-solving when not immersed in tech. He is passionate about innovation and often engages in collaborative projects that challenge conventional thinking. His curiosity drives him to explore emerging technologies and their applications, aiming to bridge the gap between theory and real-world solutions.',
     imageURL: '',
   },
   social: {
@@ -80,7 +80,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://csulb-my.sharepoint.com/:w:/g/personal/jonathan_cerniaz01_student_csulb_edu/EbceYW2U2sJOi7etK8qA15AB-Me9cmN_j2RNVtmcZgOtnQ?e=rIN2dQ', // Empty fileUrl will hide the `Download Resume` button.
+      'https://csulb-my.sharepoint.com/:w:/g/personal/jonathan_cerniaz01_student_csulb_edu/EbceYW2U2sJOi7etK8qA15AB-Me9cmN_j2RNVtmcZgOtnQ?e=mVqiBM', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'C/C++', 
@@ -97,7 +97,8 @@ const CONFIG = {
     'Linux', 
     'LTspice', 
     'MATLAB', 
-    'MySQL', 
+    'MySQL',
+    'Oscilloscope',
     'Onshape',
     'OpenCV',
     'PixyMon', 
@@ -132,6 +133,7 @@ const CONFIG = {
       companyLink: 'https://careers.walmart.com/',
     },
   ],
+  /*
   certifications: [
     {
       name: 'Lorem ipsum',
@@ -140,6 +142,7 @@ const CONFIG = {
       link: 'https://example.com',
     },
   ],
+  */
   educations: [
     {
       institution: 'California State University, Long Beach',
@@ -150,8 +153,8 @@ const CONFIG = {
     {
       institution: 'St. Anthony High School',
       degree: 'Diploma',
-      from: '2021',
-      to: '2017',
+      from: '2017',
+      to: '2021',
     },
   ],
   /*
