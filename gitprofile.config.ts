@@ -135,22 +135,6 @@ const CONFIG = {
     'Problem-Solving', 
     'Team Building'
   ],
-
-  interests: [ 
-    'Basketball', 
-    'Calisthenics', 
-    'Comedy', 
-    'Fashion', 
-    'Gaming', 
-    'Golfing', 
-    'Hip-Hop', 
-    'Instrumentation', 
-    'Movies', 
-    'PC’s', 
-    'Sneakers', 
-    'Traveling', 
-    'Weightlifting',
-  ],
   
   experiences: [
     {
