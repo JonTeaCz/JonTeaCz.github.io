@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             'Wireless car controlled via Bluetooth (HC-05/HC-06) using UART. TM4C123GXL processes smartphone commands (forward/backward/left/right) and drives DC motors (PWM via DRV8838).',
           imageUrl:
-            'https://www.shutterstock.com/image-photo/recordplayer-on-600nw-546446188.jpg',
+            'https://media.istockphoto.com/id/625452252/photo/monochrome-image-steering-wheel-and-interior-of-a-classic-car.jpg?s=612x612&w=0&k=20&c=mulhUQVL5LOTc4-KqJaXgeWtvAQE7IZLjVpdJES9Grk=',
           link: 'https://docs.google.com/document/d/1s6S6M41HdKKUFulFcIRQTZr9nM4UEx29mkUaOvnrObo/edit?usp=sharing',
         },
         {
@@ -45,13 +45,13 @@ const CONFIG = {
           description:
             'Encryption system on FPGA with dynamic key generation using LFSR and pipelined architecture. Then implemented modular components and secure memory protocols.',
           imageUrl:
-            'https://www.shutterstock.com/image-photo/recordplayer-on-600nw-546446188.jpg',
+            'https://t4.ftcdn.net/jpg/09/81/21/07/360_F_981210797_XygxaAjjjrG6KXGtxFjdkWohxGgguamA.jpg',
           link: 'https://docs.google.com/document/d/1bBZMLn7vD2mRRhZCjW-8uqfHPBukCNA3zGP-jgq6b14/edit?usp=sharing',
         },
          {
           title: 'Digital Piano',
           description:
-            '	6-bit R-2R ladder DAC generates analog audio from digital tones (C4–B4). TM4C123GXL outputs timer-based frequencies via GPIO, amplified (LM386) to a speaker. Push buttons trigger notes.',
+            '6-bit R-2R ladder DAC generates analog audio from digital tones (C4–B4). TM4C123GXL outputs timer-based frequencies via GPIO, amplified (LM386) to a speaker. Push buttons trigger notes.',
           imageUrl:
             'https://www.shutterstock.com/image-photo/recordplayer-on-600nw-546446188.jpg',
           link: 'https://docs.google.com/document/d/12Jt1C-PPy8DxbALdDkIgdQPDABDJqgR-oD94rVMCyE4/edit?usp=sharing',
@@ -59,17 +59,17 @@ const CONFIG = {
          {
           title: 'Weather Quest',
           description:
-            '	TM4C123GXL + Wi-Fi Booster Pack fetches weather data from OpenWeather API via HTTP. Parsed JSON (temperature/humidity) is displayed on ST7735 LCD and UART terminal.',
+            'TM4C123GXL + Wi-Fi Booster Pack fetches weather data from OpenWeather API via HTTP. Parsed JSON (temperature/humidity) is displayed on ST7735 LCD and UART terminal.',
           imageUrl:
             'https://www.shutterstock.com/image-photo/recordplayer-on-600nw-546446188.jpg',
-          link: 'https://docs.google.com/document/d/1AW6p0zBzY2zhK-upwSCqfvh64oMHUv-bwr4xw5cjXa4/edit?usp=sharing',
+          link: 'https://4.img-dpreview.com/files/p/E~TS520x520~articles/5185228461/Mitch-Dobrowner_Arm-of-God.jpeg',
         },
       ],
     },
   },
   seo: {
     title: 'Portfolio of Jonathan Cerniaz',
-    description: 'Jonathan Cerniaz is a recently graduated student with a Bachelor of Computer Engineering from California State University of Long Beach. He is interested in the intricacies of technology. He thrives on hands-on projects and practical problem-solving when not immersed in tech. He is passionate about innovation and often engages in collaborative projects that challenge conventional thinking. His curiosity drives him to explore emerging technologies and their applications, aiming to bridge the gap between theory and real-world solutions.',
+    description: 'Jonathan Cerniaz is a recently graduated student with a Bachelor of Computer Engineering from California State University, Long Beach. He is interested in the intricacies of technology. He thrives on hands-on projects and practical problem-solving when not immersed in tech. He is passionate about innovation and often engages in collaborative projects that challenge conventional thinking. His curiosity drives him to explore emerging technologies and their applications, aiming to bridge the gap between theory and real-world solutions.',
     imageURL: '',
   },
   social: {
@@ -81,7 +81,7 @@ const CONFIG = {
     instagram: 'Jonathancz._',
     reddit: '',
     threads: '',
-    youtube: 'JonTeaCz', // example: 'pewdiepie'
+    youtube: '', // example: 'pewdiepie'
     udemy: '',
     dribbble: '',
     behance: '',
@@ -158,13 +158,13 @@ const CONFIG = {
       name: 'Long Beach Rotary Completion',
       body: 'To celebrate the completion of my four years with the Long Beach Rotary Scholarship foundation',
       year: 'May 2025',
-      link: 'file:///C:/Users/jonur/Documents/Long%20Beach%20Rotary%20Scholarship%20Foundation.pdf',
+      link: 'https://docs.google.com/document/d/1Uj3o3TDO6C3QA3Y1-Rpzy_fFxy_QOkhteIYq0slxLiA/edit?usp=sharing',
     },
     {
       name: 'Employee of the Month',
       body: 'Received after first month as employee.',
       year: 'July 2022',
-      link: 'file:///C:/Users/jonur/Documents/Employee%20Of%20The%20Month.pdf',
+      link: 'https://docs.google.com/document/d/1qksPVkABnZftpfP9QyjG6xGlEieV0fBFQyhtpkE9alQ/edit?usp=sharing',
     },
   ],
   
