@@ -29,24 +29,40 @@ const CONFIG = {
       },
     },
     external: {
-      header: 'My Projects',
+      header: 'Other Projects',
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Coming Soon...',
+          title: 'Bluetooth Car',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Wireless car controlled via Bluetooth (HC-05/HC-06) using UART. TM4C123GXL processes smartphone commands (forward/backward/left/right) and drives DC motors (PWM via DRV8838).',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://www.shutterstock.com/image-photo/recordplayer-on-600nw-546446188.jpg',
+          link: 'https://docs.google.com/document/d/1s6S6M41HdKKUFulFcIRQTZr9nM4UEx29mkUaOvnrObo/edit?usp=sharing',
         },
         {
-          title: 'Coming Soon...',
+          title: 'Multi-Level Affine Cipher Encryption on FPGA',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Encryption system on FPGA with dynamic key generation using LFSR and pipelined architecture. Then implemented modular components and secure memory protocols.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://www.shutterstock.com/image-photo/recordplayer-on-600nw-546446188.jpg',
+          link: 'https://docs.google.com/document/d/1bBZMLn7vD2mRRhZCjW-8uqfHPBukCNA3zGP-jgq6b14/edit?usp=sharing',
+        },
+         {
+          title: 'Digital Piano',
+          description:
+            '	6-bit R-2R ladder DAC generates analog audio from digital tones (C4–B4). TM4C123GXL outputs timer-based frequencies via GPIO, amplified (LM386) to a speaker. Push buttons trigger notes.',
+          imageUrl:
+            'https://www.shutterstock.com/image-photo/recordplayer-on-600nw-546446188.jpg',
+          link: 'https://docs.google.com/document/d/12Jt1C-PPy8DxbALdDkIgdQPDABDJqgR-oD94rVMCyE4/edit?usp=sharing',
+        },
+         {
+          title: 'Weather Quest',
+          description:
+            '	TM4C123GXL + Wi-Fi Booster Pack fetches weather data from OpenWeather API via HTTP. Parsed JSON (temperature/humidity) is displayed on ST7735 LCD and UART terminal.',
+          imageUrl:
+            'https://www.shutterstock.com/image-photo/recordplayer-on-600nw-546446188.jpg',
+          link: 'https://docs.google.com/document/d/1AW6p0zBzY2zhK-upwSCqfvh64oMHUv-bwr4xw5cjXa4/edit?usp=sharing',
         },
       ],
     },
@@ -78,10 +94,12 @@ const CONFIG = {
     phone: '+1 (562) 353-3474',
     email: 'jonathan.cerniaz@gmail.com',
   },
+  
   resume: {
     fileUrl:
       'https://csulb-my.sharepoint.com/:w:/g/personal/jonathan_cerniaz01_student_csulb_edu/EbceYW2U2sJOi7etK8qA15AB-Me9cmN_j2RNVtmcZgOtnQ?e=mVqiBM', // Empty fileUrl will hide the `Download Resume` button.
   },
+  
   skills: [
     'C/C++', 
     'MATLAB', 
@@ -117,6 +135,23 @@ const CONFIG = {
     'Problem-Solving', 
     'Team Building'
   ],
+
+  interests: [ 
+    'Basketball', 
+    'Calisthenics', 
+    'Comedy', 
+    'Fashion', 
+    'Gaming', 
+    'Golfing', 
+    'Hip-Hop', 
+    'Instrumentation', 
+    'Movies', 
+    'PC’s', 
+    'Sneakers', 
+    'Traveling', 
+    'Weightlifting',
+  ],
+  
   experiences: [
     {
       company: 'The Letics',
@@ -133,20 +168,27 @@ const CONFIG = {
       companyLink: 'https://careers.walmart.com/',
     },
   ],
-  /*
+  
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+      name: 'Long Beach Rotary Completion',
+      body: 'To celebrate the completion of my four years with the Long Beach Rotary Scholarship foundation',
+      year: 'May 2025',
+      link: 'file:///C:/Users/jonur/Documents/Long%20Beach%20Rotary%20Scholarship%20Foundation.pdf',
+    },
+    {
+      name: 'Employee of the Month',
+      body: 'Received after first month as employee.',
+      year: 'July 2022',
+      link: 'file:///C:/Users/jonur/Documents/Employee%20Of%20The%20Month.pdf',
     },
   ],
-  */
+  
   educations: [
     {
       institution: 'California State University, Long Beach',
       degree: 'B.S. Computer Engineering',
+      awards: 'Long Beach Rotary Scholarship',
       from: '2021',
       to: '2025',
     },
@@ -213,37 +255,7 @@ const CONFIG = {
     themes: [
       'light',
       'dark',
-      'cupcake',
-      'bumblebee',
-      'emerald',
-      'corporate',
-      'synthwave',
-      'retro',
-      'cyberpunk',
-      'valentine',
-      'halloween',
-      'garden',
-      'forest',
-      'aqua',
-      'lofi',
-      'pastel',
-      'fantasy',
-      'wireframe',
       'black',
-      'luxury',
-      'dracula',
-      'cmyk',
-      'autumn',
-      'business',
-      'acid',
-      'lemonade',
-      'night',
-      'coffee',
-      'winter',
-      'dim',
-      'nord',
-      'sunset',
-      'procyon',
     ],
 
     // Custom theme, applied to `procyon` theme
