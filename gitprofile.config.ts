@@ -61,8 +61,16 @@ const CONFIG = {
           description:
             'TM4C123GXL + Wi-Fi Booster Pack fetches weather data from OpenWeather API via HTTP. Parsed JSON (temperature/humidity) is displayed on ST7735 LCD and UART terminal.',
           imageUrl:
-            'https://www.shutterstock.com/image-photo/recordplayer-on-600nw-546446188.jpg',
-          link: 'https://4.img-dpreview.com/files/p/E~TS520x520~articles/5185228461/Mitch-Dobrowner_Arm-of-God.jpeg',
+            'https://4.img-dpreview.com/files/p/E~TS520x520~articles/5185228461/Mitch-Dobrowner_Arm-of-God.jpeg',
+          link: 'https://docs.google.com/document/d/1AW6p0zBzY2zhK-upwSCqfvh64oMHUv-bwr4xw5cjXa4/edit?usp=sharing',
+        },
+        {
+          title: 'UART Communication',
+          description:
+            'UART communication between two TM4C123 LaunchPads and two PC Serial Terminals',
+          imageUrl:
+            'https://freerangestock.com/sample/120389/two-business-people-shake-hands--black-and-white.jpg',
+          link: 'https://docs.google.com/document/d/1AecOWOi6NPoP58bVHQ3jI7ura1YmBhTWIprgy8kALWs/edit?usp=sharing',
         },
       ],
     },
