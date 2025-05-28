@@ -72,6 +72,14 @@ const CONFIG = {
             'https://freerangestock.com/sample/120389/two-business-people-shake-hands--black-and-white.jpg',
           link: 'https://docs.google.com/document/d/1AecOWOi6NPoP58bVHQ3jI7ura1YmBhTWIprgy8kALWs/edit?usp=sharing',
         },
+        {
+          title: 'Ultrasonic Range Finder',
+          description:
+            'Embedded system integrating ultrasonic sensor with PLL and PWM for obstacle detection and LED feedback.',
+          imageUrl:
+            'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmuOVfQ5lDgdyhnDhJ1JDV7Qd7iHVT8BwXnw&s',
+          link: 'https://docs.google.com/document/d/1tRaDHrkYVIoHmeT89wLC_roYb93wqLMqp30W0dEPCbc/edit?usp=sharing',
+        },
       ],
     },
   },
