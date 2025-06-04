@@ -176,7 +176,7 @@ const CONFIG = {
       name: 'Microsoft 365 Fundamentals',
       body: 'Completed a Microsoft 365 Specialization designed for beginners, where I developed practical skills in Word, Excel, and PowerPoint. I learned how to navigate the interface, perform essential tasks, and use intelligent features to boost productivity and collaboration. This training prepared me to pursue Microsoft certification exams (MO-100, MO-200, MO-300).',
       year: 'June 2025',
-      link: 'https://coursera.org/share/618413c83c99d506c2c4c28f67b36a24',
+      link: 'https://www.coursera.org/account/accomplishments/specialization/certificate/L07YA3J9QBBD',
     },
     {
       name: 'Microsoft IT Support Specialist',
