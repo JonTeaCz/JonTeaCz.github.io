@@ -168,8 +168,29 @@ const CONFIG = {
       companyLink: 'https://careers.walmart.com/',
     },
   ],
+
+    certifications: [
+    {
+      name: 'Google Data Analytics (in Progress)',
+      body: 'This certificate provides hands-on training in the core skills, tools, and workflows used by entry-level data analysts, including data cleaning, analysis, and visualization using spreadsheets, SQL, R, and Tableau.',
+      year: 'June 2025 - Current',
+      link: '',
+    },
+    {
+      name: 'Work Smarter with Microsoft Word',
+      body: 'how to create and manage polished, professional documents such as reports, newsletters, résumés, and business communications by mastering text formatting, graphic elements, tables, lists, and collaborative document tools.',
+      year: 'June 2025',
+      link: 'https://coursera.org/share/385efe51daae8cd6747557bc89d6e34f',
+    },
+    {
+      name: 'Introduction to Computers',
+      body: 'provides a foundational understanding of computer components and how they interact with the operating system, while also exploring the relationships between hardware, software, and security.',
+      year: 'June 2025',
+      link: 'https://coursera.org/share/de4078ca9f0a36679b6f2c4ecf8ba9f1',
+    },
+  ],
   
-  certifications: [
+  awards: [
     {
       name: 'Long Beach Rotary Completion',
       body: 'To celebrate the completion of my four years with the Long Beach Rotary Scholarship foundation',
