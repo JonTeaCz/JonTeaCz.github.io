@@ -146,10 +146,6 @@ const CONFIG = {
     'Circuit Design', 
     'Testing', 
     'Troubleshooting',
-    'Leadership', 
-    'Management', 
-    'Problem-Solving', 
-    'Team Building'
   ],
   
   experiences: [
