@@ -167,10 +167,10 @@ const CONFIG = {
 
     certifications: [
     {
-      name: 'Google Data Analytics (in Progress)',
+      name: 'Google Data Analytics',
       body: 'This certificate provides hands-on training in the core skills, tools, and workflows used by entry-level data analysts, including data cleaning, analysis, and visualization using spreadsheets, SQL, R, and Tableau.',
-      year: 'June 2025 - Current',
-      link: '',
+      year: 'June 2025',
+      link: 'https://www.coursera.org/account/accomplishments/professional-cert/certificate/N2OA1KDMRGP7',
     },
     {
       name: 'Work Smarter with Microsoft Word',
