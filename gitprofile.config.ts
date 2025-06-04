@@ -174,18 +174,19 @@ const CONFIG = {
     },
     {
       name: 'Work Smarter with Microsoft Word',
-      body: 'how to create and manage polished, professional documents such as reports, newsletters, résumés, and business communications by mastering text formatting, graphic elements, tables, lists, and collaborative document tools.',
+      body: 'How to create and manage polished, professional documents such as reports, newsletters, résumés, and business communications by mastering text formatting, graphic elements, tables, lists, and collaborative document tools.',
       year: 'June 2025',
       link: 'https://coursera.org/share/385efe51daae8cd6747557bc89d6e34f',
     },
     {
       name: 'Introduction to Computers',
-      body: 'provides a foundational understanding of computer components and how they interact with the operating system, while also exploring the relationships between hardware, software, and security.',
+      body: 'Provides a foundational understanding of computer components and how they interact with the operating system, while also exploring the relationships between hardware, software, and security.',
       year: 'June 2025',
       link: 'https://coursera.org/share/de4078ca9f0a36679b6f2c4ecf8ba9f1',
     },
   ],
-  
+
+  /*
   awards: [
     {
       name: 'Long Beach Rotary Completion',
@@ -200,6 +201,7 @@ const CONFIG = {
       link: 'https://docs.google.com/document/d/1qksPVkABnZftpfP9QyjG6xGlEieV0fBFQyhtpkE9alQ/edit?usp=sharing',
     },
   ],
+  */
   
   educations: [
     {
