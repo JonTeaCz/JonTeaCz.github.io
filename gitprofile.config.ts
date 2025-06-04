@@ -167,6 +167,12 @@ const CONFIG = {
 
     certifications: [
     {
+      name: 'Introduction to Software Development (in progress)',
+      body: 'This course introduces the basics of Java programming and software development. It covers the Software Development Lifecycle (SDLC), setting up a Java environment, writing simple programs, and understanding core concepts like variables, data types, and object-oriented programming.',
+      year: 'June 2025 - Present',
+      link: '',
+    },
+    {
       name: 'Google Data Analytics',
       body: 'This certificate provides hands-on training in the core skills, tools, and workflows used by entry-level data analysts, including data cleaning, analysis, and visualization using spreadsheets, SQL, R, and Tableau.',
       year: 'June 2025',
