@@ -153,7 +153,7 @@ const CONFIG = {
       company: 'The Letics',
       position: 'Model',
       from: 'May 2022',
-      to: 'Present',
+      to: 'May 2025',
       companyLink: 'https://www.theletics.com/',
     },
     {
