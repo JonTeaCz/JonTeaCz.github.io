@@ -173,16 +173,16 @@ const CONFIG = {
       link: 'https://www.coursera.org/account/accomplishments/professional-cert/certificate/N2OA1KDMRGP7',
     },
     {
-      name: 'Work Smarter with Microsoft Word',
-      body: 'How to create and manage polished, professional documents such as reports, newsletters, résumés, and business communications by mastering text formatting, graphic elements, tables, lists, and collaborative document tools.',
+      name: 'Microsoft 365 Fundamentals',
+      body: 'Completed a Microsoft 365 Specialization designed for beginners, where I developed practical skills in Word, Excel, and PowerPoint. I learned how to navigate the interface, perform essential tasks, and use intelligent features to boost productivity and collaboration. This training prepared me to pursue Microsoft certification exams (MO-100, MO-200, MO-300).',
       year: 'June 2025',
-      link: 'https://coursera.org/share/385efe51daae8cd6747557bc89d6e34f',
+      link: 'https://coursera.org/share/618413c83c99d506c2c4c28f67b36a24',
     },
     {
-      name: 'Introduction to Computers',
-      body: 'Provides a foundational understanding of computer components and how they interact with the operating system, while also exploring the relationships between hardware, software, and security.',
+      name: 'Microsoft IT Support Specialist',
+      body: 'Having completed the Microsoft IT Support Specialist Professional Certificate, I’ve gained hands-on skills in system analysis, Microsoft 365 software configuration, security protocols, and troubleshooting—demonstrating my readiness for a career in IT.',
       year: 'June 2025',
-      link: 'https://coursera.org/share/de4078ca9f0a36679b6f2c4ecf8ba9f1',
+      link: 'https://www.coursera.org/account/accomplishments/professional-cert/certificate/QAEYRVX0A95U',
     },
   ],
 
