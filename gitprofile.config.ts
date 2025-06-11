@@ -85,7 +85,7 @@ const CONFIG = {
   },
   seo: {
     title: 'Portfolio of Jonathan Cerniaz',
-    description: 'Jonathan Cerniaz is a recently graduated student with a Bachelor of Computer Engineering from California State University, Long Beach. He is interested in the intricacies of technology. He thrives on hands-on projects and practical problem-solving when not immersed in tech. He is passionate about innovation and often engages in collaborative projects that challenge conventional thinking. His curiosity drives him to explore emerging technologies and their applications, aiming to bridge the gap between theory and real-world solutions.',
+    description: 'Jonathan Cerniaz is an Innovative Computer Engineer | Designing Embedded, Smart, and Automated Systems for a Smarter Future',
     imageURL: '',
   },
   social: {
@@ -113,7 +113,7 @@ const CONFIG = {
   
   resume: {
     fileUrl:
-      'https://csulb-my.sharepoint.com/:w:/g/personal/jonathan_cerniaz01_student_csulb_edu/EbceYW2U2sJOi7etK8qA15AB-Me9cmN_j2RNVtmcZgOtnQ?e=mVqiBM', // Empty fileUrl will hide the `Download Resume` button.
+      'https://1drv.ms/w/s!AhVOqNCVYqkUb8EJqr3IpTvqdWI?e=eLFiHw', // Empty fileUrl will hide the `Download Resume` button.
   },
   
   skills: [
