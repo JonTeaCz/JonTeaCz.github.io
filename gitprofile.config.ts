@@ -113,7 +113,7 @@ const CONFIG = {
   
   resume: {
     fileUrl:
-      'file:///C:/Users/jonur/OneDrive/Documents/Jonathan%20Cerniaz%20-%20Resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://1drv.ms/w/s!AhVOqNCVYqkUf7e6SpOXy_YRH9s?e=UaGgyw', // Empty fileUrl will hide the `Download Resume` button.
   },
   
   skills: [
